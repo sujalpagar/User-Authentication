@@ -1,0 +1,74 @@
+*{
+    font-family: sans-serif;
+}
+
+.form-style {
+    border: black 2px solid ;
+    margin: 5% 35% 5%;
+    height: 550px;
+    background-color: white;
+}
+
+body {
+    background-image: url("images/pexels-rostislav-uzunov-10458835.jpg");
+}
+
+.form-heading {
+    text-align: center;
+}
+
+.form-data {
+    padding: 3% 8% 3%;
+}
+
+.form-content {
+    margin: 50px 0% 3%;
+    position: relative;
+    top: 10px;
+}
+
+.form-input {
+    position: relative;
+    top: 15px;
+    width: 90%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid grey;
+    padding: 2% 0% 2%;
+}
+
+.content-gap {
+    margin: 9% 0% 0%;
+}
+
+.submit-btn {
+    
+    position: relative;
+    left: 100px;
+    top: 30px;
+    height: 50px;
+    width: 45%;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    background-image: url("https://images.pexels.com/photos/623919/pexels-photo-623919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.signup {
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+.font-style{
+    padding: 0% 3% 0%;
+    height: 20px;
+}
+
+/*.forgot-pass {
+    position: absolute; 
+    right: 40%;
+    top: 310px; 
+    color: black; 
+    
+}*/
